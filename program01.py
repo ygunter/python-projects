@@ -31,6 +31,7 @@ print('Hello3 ',name,'! ', end='', sep='') # suppress endline and separator
 print('Hello4 ',name,'! ', end='', sep='') # suppress endline and separator
 print('Hello5 ',name,'! ', end='', sep='') # suppress endline and separator
 
-
-
-      
+print('\n\nRequirement 6\n')
+print('''Program 1 was simple, just rewriting code.
+I learned how to use the input statement.
+I also learned a little about output.''')
