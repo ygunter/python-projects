@@ -16,6 +16,21 @@ print('From {}.'.format(hometown))
 print('I hope you like being a(n) {}.'.format(occupation))
 print('{} sounds like an interesting hobby.'.format(hobby))
 
+print('\nRequirement 4\n')
+print('Alternative Output\n')
+print('Hello',name,'!')
+print('From ' + hometown + '.')
+print('I hope you like being a(n)', occupation)
+print(hobby + ' sounds like an interesting hobby.')
+
+print('\nRequirement 5\n')
+print('More Options\n')
+print('Hello1 ',name,'!') # note the spaces after commas in the output
+print('Hello2 ',name,'!', sep='') # suppress separator (no spaces in output)
+print('Hello3 ',name,'! ', end='', sep='') # suppress endline and separator
+print('Hello4 ',name,'! ', end='', sep='') # suppress endline and separator
+print('Hello5 ',name,'! ', end='', sep='') # suppress endline and separator
+
 
 
       
