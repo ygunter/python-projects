@@ -1,10 +1,10 @@
 # program01.py
 
 print('\nRequirement 1\n')
-print('This is Program 1 - Yolanda Gunter\n')
+print('This is Program01 - Yolanda Gunter\n')
 
 print('Requirement 2\n')
-print('Please enter the information rquested.\n')
+print('Please enter the information requested.\n')
 name = input('Last name: ')
 hometown = input('Hometown: ')
 occupation = input('Occupation: ')
@@ -32,6 +32,6 @@ print('Hello4 ',name,'! ', end='', sep='') # suppress endline and separator
 print('Hello5 ',name,'! ', end='', sep='') # suppress endline and separator
 
 print('\n\nRequirement 6\n')
-print('''Program 1 was simple, just rewriting code.
-I learned how to use the input statement.
-I also learned a little about output.''')
+print('''Program 1 provided good syntax with comma understanding.
+I had to read notes on Requirements 4 and 5 several times, lol.
+Coding the examples is helping me learn by repitition.''')
