@@ -32,6 +32,6 @@ print('Hello4 ',name,'! ', end='', sep='') # suppress endline and separator
 print('Hello5 ',name,'! ', end='', sep='') # suppress endline and separator
 
 print('\n\nRequirement 6\n')
-print('''Program 1 provided good syntax with comma understanding.
+print('''Program 1 provided good syntax learning with commas.
 I had to read notes on Requirements 4 and 5 several times, lol.
-Coding the examples is helping me learn by repitition.''')
+Coding the examples is helping me learn by repetition.''')
